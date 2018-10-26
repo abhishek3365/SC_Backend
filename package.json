@@ -4,6 +4,7 @@
   "description": "Webapi for scandit app",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tapan,Abhishek,Sunil",
