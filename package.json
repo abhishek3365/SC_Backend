@@ -1,0 +1,20 @@
+{
+  "name": "scanditwebapi",
+  "version": "1.0.0",
+  "description": "Webapi for scandit app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tapan,Abhishek,Sunil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "moment": "^2.22.2",
+    "mongoose": "^5.3.0",
+    "shortid": "^2.2.13",
+    "winston": "^3.1.0"
+  }
+}

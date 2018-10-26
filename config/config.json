@@ -1,0 +1,6 @@
+{
+    "logger-settings": {
+        "log-level": "debug",
+        "_comment": "log-level can be any of these: error,warn,info,verbose,debug,silly"
+    }
+}
